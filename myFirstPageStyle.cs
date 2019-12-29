@@ -1,3 +1,6 @@
+
+font-family: arial, "Times New Roman", serif;
+
 body {
   font-size: 14px;
   color: navy;
