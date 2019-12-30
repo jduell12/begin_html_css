@@ -36,3 +36,13 @@ li {
   font-style: italic;
   font-weight: bold;
 }
+
+a:active{
+  color: red;
+}
+
+a:hover{
+  text-decoration: none;
+  color: green;
+  background: #eee;
+}
