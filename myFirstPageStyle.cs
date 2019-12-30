@@ -1,4 +1,3 @@
-
 font-family: arial, "Times New Roman", serif;
 
 html, body {
@@ -11,9 +10,13 @@ html, body {
   overflow-x: hidden;
 }
 
+.contact{
+  padding: 2em 0;
+}
+
 .full-width-bar{
-    margin: 0 -9999rem;
-    padding: 0.25rem 9999rem;
+    margin: 0 -30rem;
+    padding: 0.25rem 30rem;
     color: #fbec5d;
     background-color: #009;
 }
